@@ -13,6 +13,8 @@ Una aplicación web desarrollada en Angular que permite buscar información sobr
 - Angular: 20.0.0
 - RxJS: 7.8.2
 - TypeScript: 5.8.3
+  
+## Tiempo de cumplimiento de tarea 4 hrs
 
 ## Instalación
 
