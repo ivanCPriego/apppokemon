@@ -18,7 +18,7 @@ Una aplicación web desarrollada en Angular que permite buscar información sobr
 
 1. Clonar el repositorio
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/ivanCPriego/apppokemon
 cd poke-app
 ```
 
