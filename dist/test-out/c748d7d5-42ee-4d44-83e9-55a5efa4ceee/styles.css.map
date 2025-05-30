@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/styles.scss"],
+  "sourcesContent": ["*{\n  padding: 0;\n  margin: 0;\n  font-family: \"Roboto\", sans-serif;\n  color: rgb(22, 22, 22);\n  box-sizing: border-box;\n}\nhtml {\n  scroll-behavior: smooth;\n  body{\n    background: white;\n    font-size: 16px;\n    b{\n      font-family:var(--text-bold);\n    }\n  }\n}"],
+  "mappings": ";AAAA;AACE,WAAA;AACA,UAAA;AACA,eAAA,QAAA,EAAA;AACA,SAAA,IAAA,EAAA,EAAA,EAAA,EAAA;AACA,cAAA;;AAEF;AACE,mBAAA;;AACA,KAAA;AACE,cAAA;AACA,aAAA;;AACA,KAAA,KAAA;AACE,eAAA,IAAA;;",
+  "names": []
+}

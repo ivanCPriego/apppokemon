@@ -1,0 +1,21 @@
+/* src/styles.scss */
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  color: rgb(22, 22, 22);
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+}
+html body {
+  background: white;
+  font-size: 16px;
+}
+html body b {
+  font-family: var(--text-bold);
+}
+
+/* angular:styles/global:styles */
+/*# sourceMappingURL=styles.css.map */

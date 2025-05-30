@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/components/status-message/status-message.ts"],
+  "sourcesContent": ["\n    .status-message {\n      padding: 1rem;\n      border-radius: 4px;\n      margin-bottom: 1rem;\n      text-align: center;\n    }\n\n    .error {\n      background-color: #ffebee;\n      color: #c62828;\n      border: 1px solid #ffcdd2;\n    }\n\n    .loading {\n      background-color: #e3f2fd;\n      color: #1565c0;\n      border: 1px solid #bbdefb;\n    }\n\n    .success {\n      background-color: #e8f5e9;\n      color: #2e7d32;\n      border: 1px solid #c8e6c9;\n    }\n  "],
+  "mappings": ";AACI,CAAA;AACE,WAAA;AACA,iBAAA;AACA,iBAAA;AACA,cAAA;;AAGF,CAAA;AACE,oBAAA;AACA,SAAA;AACA,UAAA,IAAA,MAAA;;AAGF,CAAA;AACE,oBAAA;AACA,SAAA;AACA,UAAA,IAAA,MAAA;;AAGF,CAAA;AACE,oBAAA;AACA,SAAA;AACA,UAAA,IAAA,MAAA;;",
+  "names": []
+}
