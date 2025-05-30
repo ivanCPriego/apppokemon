@@ -19,7 +19,7 @@ Una aplicación web desarrollada en Angular que permite buscar información sobr
 1. Clonar el repositorio
 ```bash
 git clone https://github.com/ivanCPriego/apppokemon
-cd poke-app
+cd apppokemon
 ```
 
 2. Instalar dependencias
